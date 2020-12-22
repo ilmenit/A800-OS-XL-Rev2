@@ -1,4 +1,5 @@
-; in MADS compile with -fv:0 (by default fill value is $FF)
+; Converted to MADS by Jakub 'Ilmenit' Debski 'Dec 2020
+; Compile with parameter -fv:0 (by default fill value is $FF)
 
 	OPT h- ; do not add file header
 	OPT f+ ; save as single block
